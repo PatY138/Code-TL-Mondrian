@@ -93,3 +93,9 @@ h1{
 .changingbackground{
     animation: changeBackgroundColor 8s infinite;
 }
+
+.courier-prime-regular {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
